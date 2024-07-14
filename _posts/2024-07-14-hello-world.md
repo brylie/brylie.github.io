@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Hello World!
-date: 2024-07-14 17:34 +0200
-categories: hello world
+title: "Hello World"
+date: 2024-07-14
 ---
 
 # Hello, World! Welcome to My Coding Journey
