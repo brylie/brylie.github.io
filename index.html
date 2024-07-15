@@ -14,9 +14,6 @@ title: Home
         </a>
       </h2>
       <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-      {% if post.excerpt %}
-        <p>{{ post.excerpt }}</p>
-      {% endif %}
     </li>
   {% endfor %}
 </ul>
